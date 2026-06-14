@@ -7,11 +7,7 @@ This repository contains the software, raw experimental data, and final technica
 
 ## 📂 Repository Structure
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=julia,latex,matlab,py,r,vscode" />
-  </a>
-</p>
+[![Languages](https://skillicons.dev/icons?i=julia,latex,matlab,py,r,vscode)](https://skillicons.dev)
 
 The project environment is organized into three core directories:
 
