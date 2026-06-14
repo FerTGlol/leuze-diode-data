@@ -33,4 +33,8 @@ The codes within this repository interface with hardware configured to meet the 
 * **Core Environments:** Python, R, MATLAB, and Julia.
 
 ---
-*For any questions regarding hardware integration or data structures, please consult the technical lab report located within the `report/` directory.*
+
+**Note:** The results presented in `result_data` correspond solely to measurements taken with the temperature-controlled Thorlabs driver, which yielded the most stable and accurate data. Earlier datasets generated from the initial circuit and alternative commercial driver iterations are available in this Google Drive folder: [https://drive.google.com/drive/folders/12O2cU34RhlK5tQI1mi2K6_B3G2k5RMJt?usp=sharing]. This folder also hosts the full set of videos and high-resolution imagery that could not be uploaded directly due to GitHub's 25 MB file size restriction.
+
+---
+*For any questions regarding hardware integration or data structures, please consult the technical lab report located within the `report/` directory. Feel free to contact the team for further inquiries!*
