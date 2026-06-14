@@ -2,6 +2,7 @@
 
 This repository contains the software, raw experimental data, and final technical reporting for the AlGaInP laser diode polarization characterization study conducted for Leuze Electronic. The primary objective of this project was to investigate systemic deviations from ideal linear polarization states and map out microstructural and electro-thermal root causes.
 
+* **Reminder:** When referring to diodes, the "20s" batch corresponds to the ADL-65075TL model, while the "200s" batch corresponds to the ADL-65074TR model. 
 ---
 
 ## 📂 Repository Structure
