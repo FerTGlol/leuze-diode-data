@@ -1,4 +1,4 @@
-# Laser Diode Polarization Characterization Project
+# Laser Diode Polarization Characterization Project 🔴〰️✨
 
 This repository contains the software, raw experimental data, and final technical reporting for the AlGaInP laser diode polarization characterization study conducted for Leuze Electronic. The primary objective of this project was to investigate systemic deviations from ideal linear polarization states and map out microstructural and electro-thermal root causes.
 
