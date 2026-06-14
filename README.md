@@ -29,7 +29,7 @@ This folder contains the complete, comprehensive technical documentation for the
 The codes within this repository interface with hardware configured to meet the following parameters:
 * **Max Driving Current:** 35 mA (regulated via a precision Thorlabs driver).
 * **Thermal Regulation:** Active Thermoelectric Cooling (TEC) stability down to $\pm 0.01^\circ\text{C}$.
-* **Core Environments:** Python (Pandas/NumPy), Julia, and MATLAB.
+* **Core Environments:** Python, R, MATLAB, and Julia.
 
 ---
 *For any questions regarding hardware integration or data structures, please consult the technical lab report located within the `report/` directory.*
