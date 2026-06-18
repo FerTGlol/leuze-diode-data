@@ -24,7 +24,8 @@ This folder serves as the central data warehouse containing all diagnostic data 
 ### 3. `report/`
 This folder contains the complete, comprehensive technical documentation for the project.
 * **`Final_Report.pdf`:** A full technical laboratory report detailing the state-of-the-art literature review, mathematical matrix formalisms, multi-tiered methodology, engineering infrastructure modifications, and data interpretations. It serves as a complete reference guide for reproducing the experimental setup and analyzing the manufacturing anomalies discovered.
-* **`Final_Presentation.pdf`:** The presentation that was shown at the final meeting on Thursday, June 11th (2026). 
+* **`Final_Presentation.pdf`:** The presentation that was shown at the final meeting on Thursday, June 11th (2026).
+* **`Executive_Summary.pdf`:** A high-level overview of the project's multi-level testing framework, summarizing the core experimental data from Malus' Law curves, Stokes polarimetry, 2D spatial mapping, and SEM/EDS structural analysis.
 
 ---
 
